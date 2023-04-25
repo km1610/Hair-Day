@@ -1,0 +1,16 @@
+.container {
+    width: 60%;
+    text-align: justify;
+    margin: auto;
+    border: 2px solid var(--red);
+    padding: 20px;
+
+}
+.aboutimg{
+    width: 100%;
+}
+.link{
+    text-align: center;
+    margin: auto;
+    display: block;
+}

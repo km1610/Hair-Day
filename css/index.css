@@ -1,0 +1,30 @@
+.promotion {
+    position: relative;
+}
+.offer{
+    position: absolute;
+    /*left: 50%;
+    top: 50%;*/
+    top: 50%;
+    box-sizing: border-box;
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    opacity: 0.8;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: var(--red);
+}
+
+.container {
+    display: flex;
+    text-align: center;
+}
+.provisions {
+    box-sizing: border-box;
+    width: 33.33%;
+    padding: 30px;
+    border: 2px solid var(--red);
+    margin: 10px;
+}

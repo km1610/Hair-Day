@@ -1,0 +1,21 @@
+.container {
+    width: 60%;
+    text-align: justify;
+    margin: auto;
+    border: 2px solid var(--red);
+    padding: 20px;
+}
+input{
+    padding: 10px;
+    border: 2px solid var(--red);
+    border-radius: 5px;
+    width: 100%;
+}
+
+.link{
+    border: none;
+}
+
+.form td,tr {
+    padding: 10px;
+}

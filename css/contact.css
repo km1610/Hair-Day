@@ -1,0 +1,20 @@
+.container {
+    width: 60%;
+    margin: auto;
+    border: 2px solid var(--red);
+    padding: 20px;
+}
+
+.info{
+    display: flex;
+}
+
+.contact{
+    width: 33.33%;
+}
+
+.smlink{
+    width: 25%;
+    text-decoration: none;
+    color: black;
+}

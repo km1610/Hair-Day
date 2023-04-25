@@ -1,0 +1,39 @@
+.container{
+    display: grid;
+    grid-template-columns: 24% 24% 24% 24%;
+    gap: 20px;
+}
+
+.blog{
+    box-sizing: border-box;
+    padding: 20px;
+    border: 2px solid var(--red);
+    /*margin: 10px;*/
+    /*box-shadow: 0 0 10px lightgray;*/
+}
+
+.link{
+    display: block;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    cursor: pointer;
+}
+
+
+.blogimg{
+    width: 100%;
+}
+
+.blogname{
+    font-size: 20;
+    font-weight: bold;
+    text-align: center;
+}
+
+input[type="search"]{
+    padding: 10px;
+    border: 2px solid var(--red);
+    border-radius: 5px;
+    width: 100%;
+}
