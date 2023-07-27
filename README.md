@@ -1,7 +1,7 @@
 # Hair Day - Hair Salon Website
 Hair Day is a business website for a hair salon that incorporates e-commerce functionality for selling hair products, an appointment booking system, and user authentication for login and signup.
 
-![Screenshot of Homepage.](https://km1610.github.io/assets/images/Hair Day.png)
+![Screenshot of Homepage.](WD3.png)
 
 ## Description
 Hair Day is a full-stack web application built to provide a seamless experience for customers to explore the hair salon's services, buy hair products, and book appointments. The application is designed to be user-friendly, responsive, and intuitive for both clients and salon staff.
